@@ -1,0 +1,14 @@
+print("Holi")
+repeat(4)
+{
+  int luis = 4 + 2
+}
+int w = 1 * 4
+if(2<3){
+  string myName = "luis"
+  print(myName)
+}
+else
+{
+  int abc =5+5
+}
